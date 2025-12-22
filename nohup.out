@@ -317,3 +317,12 @@ java.lang.Throwable: popup menu creation trace
 2025-12-22 19:43:33,112 [ 970580]   WARN - #c.i.o.a.i.ActionUpdater - 481 ms to grab EDT for TabListAction#update (com.intellij.ide.actions.TabListAction)
 2025-12-22 19:43:34,899 [ 972367]   WARN - #c.i.o.a.i.ActionUpdater - 980 ms to grab EDT for ShowRecentFilesAction#update (com.intellij.ide.actions.ShowRecentFilesAction)
 2025-12-22 19:44:11,099 [1008567]   WARN - #c.i.o.a.i.ActionUpdater - 286 ms to grab EDT for TabListAction#update (com.intellij.ide.actions.TabListAction)
+2025-12-22 19:44:37,628 [1035096]   WARN - #c.i.o.a.i.ActionUpdater - 245 ms to grab EDT for TabListAction#update (com.intellij.ide.actions.TabListAction)
+2025-12-22 19:44:37,629 [1035097]   WARN - #c.i.o.a.i.ActionUpdater - 238 ms to grab EDT for TabListAction#update (com.intellij.ide.actions.TabListAction)
+2025-12-22 19:45:34,219 [1091687]   WARN - #c.i.o.a.i.ActionUpdater - 498 ms to grab EDT for ShowOnlyAffectedChangesAction#update (com.intellij.vcs.log.ui.actions.ShowOnlyAffectedChangesAction)
+2025-12-22 19:48:12,508 [1249976]   WARN - #c.i.o.a.i.ActionUpdater - 466 ms to grab EDT for #update (com.intellij.toolWindow.ToolWindowHeader$1)
+2025-12-22 19:48:12,509 [1249977]   WARN - #c.i.o.a.i.ActionUpdater - 478 ms to grab EDT for #update (com.intellij.toolWindow.ToolWindowHeader$1)
+2025-12-22 20:22:23,325 [3300793]   WARN - #c.i.o.a.i.ActionUpdater - 261 ms to call on EDT PsiViewerAction#update (com.intellij.internal.psiView.PsiViewerAction). Use `UpdateInBackground`.
+2025-12-22 20:22:29,308 [3306776]   WARN - #c.i.o.a.i.ActionUpdater - 135 ms to call on EDT ApplyPatchFromClipboardAction#update (com.intellij.openapi.vcs.changes.patch.ApplyPatchFromClipboardAction). Use `UpdateInBackground`.
+2025-12-22 20:23:25,867 [3363335]   WARN - #c.i.d.PerformanceWatcherImpl - UI was frozen for 6710ms, details saved to /home/hduser/.cache/JetBrains/PyCharmCE2022.1/log/threadDumps-freeze-20251222-202325-PC-221.5787.24-6sec
+2025-12-22 20:23:26,961 [3364429]   WARN - #c.i.o.a.i.ActionUpdater - 867 ms to grab EDT for TabListAction#update (com.intellij.ide.actions.TabListAction)
